@@ -1,7 +1,5 @@
-module QuickSearch
-  module SwiftypeSearcher
-    class Engine < ::Rails::Engine
-      isolate_namespace QuickSearch::SwiftypeSearcher
-    end
+module QuickSearchSwiftypeSearcher
+  class Engine < ::Rails::Engine
+    isolate_namespace QuickSearchSwiftypeSearcher
   end
 end

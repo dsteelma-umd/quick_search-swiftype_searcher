@@ -1,2 +1,2 @@
-QuickSearch::SwiftypeSearcher::Engine.routes.draw do
+QuickSearchSwiftypeSearcher::Engine.routes.draw do
 end
