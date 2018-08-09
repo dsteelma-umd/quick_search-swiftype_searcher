@@ -38,7 +38,7 @@ module QuickSearch
 
     def parameters
       {
-        'q' => http_request_queries['not_escaped'],
+        'q' => http_request_queries['uri_escaped'],
         'per_page' => '3',
         'engine_key' => QuickSearch::Engine::SWIFTYPE_CONFIG['engine_key']
       }
