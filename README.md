@@ -2,6 +2,15 @@
 
 UMD Library Website searcher for NCSU Quick Search utilizing Swiftype.
 
+---
+
+## ARCHIVED REPOSITORY
+
+This repository has been archived, and is no longer being developed or
+maintained.
+
+---
+
 ## Installation
 
 Include the searcher gem in your Gemfile:
